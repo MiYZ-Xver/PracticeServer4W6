@@ -1,0 +1,14 @@
+{
+  "name": "week6_homeworkmake",
+  "version": "1.0.0",
+  "description": "Please make this work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XinMiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

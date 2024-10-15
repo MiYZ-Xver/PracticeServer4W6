@@ -1,0 +1,200 @@
+{
+    "Material": [
+        {
+            "name": "Acrylic",
+            "description": "A synthetic fiber made from polymer fibers, often used as a substitute for wool.",
+            "applications": "Commonly found in sweaters, blankets, and upholstery. It is lightweight, warm, and resistant to wrinkles.",
+            "washingMode": "Machine Wash Cold",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Aertex",
+            "description": "A lightweight, breathable fabric made from loosely woven cotton.",
+            "applications": "Used in sportswear and summer clothing due to its breathable qualities.",
+            "washingMode": "Machine Wash Cold",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Alpaca",
+            "description": "A natural fiber sourced from alpaca animals, similar to wool but softer and warmer.",
+            "applications": "Often used in luxury scarves, sweaters, and blankets.",
+            "washingMode": "Hand Wash",
+            "dryingMode": "Flat Dry"
+        },
+        {
+            "name": "Canvas",
+            "description": "A heavy-duty, plain-woven fabric made from cotton or linen.",
+            "applications": "Used in sails, tents, bags, and artist's canvases.",
+            "washingMode": "Machine Wash Cold",
+            "dryingMode": "Air Dry"
+        },
+        {
+            "name": "Cashmere",
+            "description": "A luxurious fiber obtained from cashmere goats, known for its softness and warmth.",
+            "applications": "Used in high-end sweaters, scarves, and coats.",
+            "washingMode": [
+                "Delicate Cycle",
+                "Wool Cycle",
+                "Cold"
+            ],
+            "dryingMode": "Flat Dry"
+        },
+        {
+            "name": "Chenille",
+            "description": "A soft, fuzzy fabric made from twisted yarns with a velvet-like texture.",
+            "applications": "Used in blankets, sweaters, and upholstery.",
+            "washingMode": "Hand Wash",
+            "dryingMode": "Flat Dry"
+        },
+        {
+            "name": "Chiffon",
+            "description": "A lightweight, sheer fabric made from silk, nylon, or polyester.",
+            "applications": "Used in evening wear, scarves, and dresses.",
+            "washingMode": "Delicate Cycle",
+            "dryingMode": "Air Dry"
+        },
+        {
+            "name": "Cotton",
+            "description": "A soft, breathable natural fiber harvested from cotton plants.",
+            "applications": "Used universally in clothing, bed linens, towels, and countless other applications.",
+            "washingMode": "Machine Wash Warm",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Crepe",
+            "description": "A lightweight fabric with a crinkled or pebbled surface, often made from silk or wool.",
+            "applications": "Used in dresses, blouses, and formal wear.",
+            "washingMode": "Delicate Cycle",
+            "dryingMode": "Flat Dry"
+        },
+        {
+            "name": "Damask",
+            "description": "A reversible, patterned fabric made of silk, wool, or synthetic fibers.",
+            "applications": "Often found in table linens, upholstery, and formal clothing.",
+            "washingMode": "Dry Cleaning",
+            "dryingMode": "Flat Dry"
+        },
+        {
+            "name": "Denim",
+            "description": "A durable cotton twill fabric, typically blue and used for jeans.",
+            "applications": "Primarily used in jeans, jackets, and casual wear.",
+            "washingMode": "Machine Wash Cold",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Flannel",
+            "description": "A soft, brushed cotton or wool fabric that is warm and comfortable.",
+            "applications": "Commonly used in pajamas, shirts, and bedding.",
+            "washingMode": "Machine Wash Cold",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Georgette",
+            "description": "A lightweight, crinkled fabric made from silk or polyester.",
+            "applications": "Commonly used in dresses, blouses, and scarves.",
+            "washingMode": "Machine Wash Cold",
+            "dryingMode": "Flat Dry"
+        },
+        {
+            "name": "Gingham",
+            "description": "A lightweight cotton fabric with a checkered or plaid pattern.",
+            "applications": "Used in shirts, dresses, and tablecloths.",
+            "washingMode": "Machine Wash Warm",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Jersey",
+            "description": "A stretchy, knit fabric made from cotton, wool, or synthetic fibers.",
+            "applications": "Used in t-shirts, dresses, and activewear.",
+            "washingMode": "Machine Wash Warm",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Lace",
+            "description": "A delicate, openwork fabric made from cotton, silk, or synthetic fibers.",
+            "applications": "Used in bridal wear, lingerie, and home décor.",
+            "washingMode": "Delicate Cycle",
+            "dryingMode": "Flat Dry"
+        },
+        {
+            "name": "Linen",
+            "description": "A strong, breathable fabric made from flax fibers.",
+            "applications": "sed in summer clothing, bed linens, and tablecloths.",
+            "washingMode": "Machine Wash Warm",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "leather",
+            "description": "A durable and flexible material made from the processed hides of animals, primarily cattle.",
+            "applications": "Leather is widely used in fashion (jackets, shoes, belts, bags), upholstery (sofas, car interiors), and accessories (wallets, gloves). ",
+            "washingMode": [
+                "dust regularly",
+                "Mild Soap Solution"
+            ],
+            "dryingMode": "Air Dry"
+        },
+        {
+            "name": "Microfiber",
+            "description": "A synthetic fiber finer than silk, usually made from polyester or nylon.",
+            "applications": "Used in cleaning cloths, towels, and high-performance sportswear.",
+            "washingMode": "Machine Wash Warm",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Muslin",
+            "description": "A lightweight cotton fabric with a plain weave.",
+            "applications": "Used in dressmaking, curtains, and as a backing for embroidery.",
+            "washingMode": "Machine Wash Cold",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Nylon",
+            "description": "A strong, elastic synthetic fabric known for its durability and water resistance.",
+            "applications": "Used in stockings, swimwear, and outdoor gear.",
+            "washingMode": "Machine Wash Cold",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Olefin",
+            "description": "A synthetic fiber that is lightweight, strong, and resistant to stains.",
+            "applications": "Used in carpets, upholstery, and sportswear.",
+            "washingMode": "Machine Wash Warm",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Polyester",
+            "description": "A durable, synthetic fabric resistant to wrinkles and shrinking.",
+            "applications": "Used in clothing, home textiles, and industrial fabrics.",
+            "washingMode": "Machine Wash Warm",
+            "dryingMode": "Low Heat"
+        },
+        {
+            "name": "Rayon",
+            "description": "A semi-synthetic fiber made from cellulose, with a smooth texture and good drape.",
+            "applications": "Used in dresses, blouses, and linings.",
+            "washingMode": "Hand Wash",
+            "dryingMode": "Air Dry"
+        },
+        {
+            "name": "Satin",
+            "description": "A glossy fabric with a smooth surface, often made from silk or polyester.",
+            "applications": "Used in evening wear, lingerie, and decorative items.",
+            "washingMode": "Hand Wash",
+            "dryingMode": "Air Dry"
+        },
+        {
+            "name": "Silk",
+            "description": "A luxurious natural fiber produced by silkworms, known for its smooth texture and sheen.",
+            "applications": "Used in fine garments, such as evening gowns, scarves, and ties.",
+            "washingMode": "Hand Wash",
+            "dryingMode": "Air Dry"
+        },
+        {
+            "name": "Velvet",
+            "description": "a luxurious, soft fabric with a dense pile, giving it a distinctive plush texture and sheen. ",
+            "applications": "Velvet is commonly used in high-end fashion (dresses, jackets, evening gowns), upholstery (sofas, chairs), and home decor (curtains, cushions). ",
+            "washingMode": "Dry Cleaning",
+            "dryingMode": "Air Dry"
+        }
+    ]
+}

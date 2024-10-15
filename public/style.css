@@ -1,0 +1,125 @@
+.web-logo {
+      width: 50px;
+  }
+  
+body, html {
+    height: 100%;
+  }
+
+  
+.bg-image{
+    background-image: url("https://blog.sakugabooru.com/wp-content/uploads/2019/05/uesugi_concept.jpg");
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+  }
+
+
+
+.bg-text {
+      text-align: center;
+      color: white;
+      font-family: Cursive;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 80%;
+      padding: 20px;
+      text-align: center;
+  }
+
+  h1 {
+      font-family: Fantasy;
+      font-size: 60px;
+      border-bottom-style: solid;
+      border-bottom-width: 2px;
+      border-bottom-color: white;
+  }
+
+.clickhere{
+    border:2px, solid;
+    margin:100px;
+    color:white;
+  }
+
+a{
+    color:white;
+}
+.clickhere:hover{
+    background-color: orangered;
+}
+
+.poem_container {
+      font-size: 16px;
+      font-family: Courier New;
+      font-weight: bolder;
+  }
+
+.Today-container {
+      display: inline-flex;
+      text-align: Center;
+      background-color: beige;
+  }
+
+.Today-decoration{
+    width:50%;
+    
+}
+  .Today-CTimage {
+      border-radius: 30%;
+      width: 50%;
+      margin: 10%;;
+  }
+  h2{
+    font-size: 50px;
+  }
+  #click-random-button{
+    padding: 4px 72px;
+    margin: 16px 32px;
+    font-family: 'Fantasy';
+    font-size: 18px;
+    color: whitesmoke;
+    background-color: orangered;
+    border-color: orange; 
+    border-radius: 4px;
+  }
+
+  .Today-answer-container {
+      display: inline-flex;
+  }
+
+  .Today-image {
+      height: 30px;
+      width: 30px;
+  }
+
+table{
+    width:  1000px;
+    margin: 30px auto;
+    background-color: beige;
+ }
+  
+table th{
+    padding: 10px 0;
+    background-color: #f4f4f4;
+    /* background-color: #fff; */
+    border:  thin solid #d4d4d4;
+ }
+
+table td{
+    padding: 10px;
+    border:  thin solid #d4d4d4;
+    width: 18%;
+    text-align: center;
+    background-color: #fff;
+ }
+
+td:hover{
+    background-color: antiquewhite;
+}

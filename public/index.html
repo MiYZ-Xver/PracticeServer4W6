@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Round & Laundry </title>
+    <link rel="stylesheet" href="style.css">
+    <div>
+        <audio controls autoplay>
+            <source src="image/Carole and Tuesday - Round & Laundry.mp3" type="audio/mpeg">
+        </audio>
+    </div>
+</head>
+
+<body>
+    <div class="bg-image"></div>
+    <div class="main_body">
+        <div class="title_container">
+            
+            <div class="bg-text">
+                <h1>
+                    <img class="web-logo" src="image/laundry basket.png" alt="laundry_basket">
+                    Round & Laundry
+                    <img class="web-logo"src="image/laundry basket.png" alt="laundry_basket">
+                </h1>
+                <div class="poem_container">
+                    <p>Round and round, the dancing laundry.</p>
+                    <p>Let's lose our mind, forget the time.</p>
+                    <p>And everything will be just fine.</p>
+                </div>
+                <h2 class="clickhere">
+                    <a href="#clickHereDes">Click Here</a>
+                </h2>
+                
+            </div>
+        </div>
+        <div id=clickHereDes class="Today-container">
+            <div class="Today-decoration">
+                <image  class="Today-CTimage"src="image/carole_and_tuesday.jpg">
+            </div>
+            <div>
+                <h2>
+                    Today's Material? <button id="click-random-button">Click for random</button>
+                </h2>
+                <h2>
+                    <span id="material-name"> </span>
+                </h2>
+                <div class="Today-answer-container">
+                    <image class=Today-image src="image/laundry_machine.png" mode="">
+                    <h3>
+                        <span id="washing-mode"></span>
+                    </h3>
+                    <image class=Today-image src="image/dryer_machine.png" mode="">
+                    <h3>
+                        <span id="drying-mode"></span>
+                    </h3>
+                </div>
+         </div>
+        </div>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Materials</th>
+                    <th>Washing Mode</th>
+                    <th>Application Mode</th>
+                    <th>Description</th>
+                    <th>Application</th>
+                </tr>
+            </thead>
+            <tbody id="data-output">
+            </tbody>
+        </table>
+
+    </div>
+
+   
+    <script src="app.js"></script>
+</body>
+
+</html>
+
